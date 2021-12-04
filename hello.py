@@ -1,4 +1,5 @@
 def hello():
   print("hello world!")
-  
-  hello()
+  return True
+
+hello()
